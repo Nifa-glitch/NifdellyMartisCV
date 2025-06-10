@@ -14,9 +14,9 @@ n.martis@naam.com
 
 ## Education
 
-- Legal Social Worker
-- Introduction to coyright
-- Creative Writing
+-Legal Social Worker
+-Introduction to coyright
+-Creative Writing
 
 ## Publications
 
