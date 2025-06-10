@@ -9,8 +9,8 @@ layout: default
 > Passion, dedication spiked with a love for literature, history and art. That's me.
 
 ## Contact information
--n.martis@naam.com
--+599697587 
+n.martis@naam.com
++599697587 
 
 ## Education
 
